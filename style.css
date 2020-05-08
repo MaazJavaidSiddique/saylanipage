@@ -1,0 +1,365 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+  .navhover ul li:hover{
+    background-color: blue;
+    border-radius: 20px;
+    color: white;
+    
+} 
+
+.navbar-nav li{
+    padding:0px 10px;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+.navbar-nav ul li .dropdown-item:hover{
+    background-color: blue;
+}
+
+section .saylanilogo img{
+    margin-top: 20px;
+    height: 50px;
+    width: 170px;
+    margin-bottom: 20px;
+  
+    
+}
+.dropdown-menu a:hover{
+    background-color: blue;
+}
+
+.largeimage img{
+    justify-items: auto;
+    text-align: center;
+    min-width: 100%;
+    max-width: 100%;
+    margin-bottom: 50px;
+}
+.CF4{
+    border: 1px solid blue;
+    background-color: blue;
+    min-height: 50px;
+    max-height: 300px;   
+    padding-top: 10px;
+   
+}
+.CF1 .paragraph{
+    text-align: justify;
+    padding-bottom: 50px;
+}
+.CF4 .image{
+    padding-left: 50px;
+}
+.CF4 .paragraph p{
+    text-align: center;
+    
+    padding-top: 7px;
+    color: white;
+}
+.CF4 .buttons{
+    padding-left: 65px;
+    
+}
+.CF4 .buttons input{
+    padding: 3px;
+    font-size: 14px;
+    color: lawngreen;
+    
+}
+
+.row img{
+    height: 30px;
+    width: 40px;
+
+}
+
+h1 .intro{
+    color: royalblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+}
+h1 .duction{
+    color: #427900;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.paragraph p{
+    text-align: justify;
+}
+.CF2{
+    border: 1px solid  royalblue;
+    background-color: royalblue;
+    position: relative;
+    left: 0;
+    top: 0;
+    
+}
+.CF2 .row{
+    text-align: center;
+    color: white;
+    padding: 60px 0;
+    
+}
+.CF2 .row .service1{
+    padding-left: 75px;
+    line-height: 15px;
+}
+.CF2 .row  h5{
+    font-size: 15px; 
+    
+}
+.CF2 .row img{
+    width: 50px;
+    height: 50px;
+    margin-left: 40px;
+}
+.CF2 .row  h5 span{
+    color: rgb(7, 172, 7);
+    font-size:20px ;
+}
+.CF2 .service1 h5{
+    color: white;
+}
+.CF2 .service2 h5{
+    color: white;
+}
+.CF2 .service3 h5{
+    color: white;
+}
+.CF2 .service4 h5{
+    color: white;
+}
+
+
+.CF2 .row .service2{
+    padding-left: 80px;
+    text-align: center;
+}
+
+.CF2 .row .service3{
+    padding-left: 110px;
+     text-align: center;
+}
+
+.CF2 .row .service4{
+    padding-left: 100px;
+}
+.row .text{
+    padding-top: 50px;
+    text-align: center;
+}
+.row .whatme{
+    color: royalblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+.row .aredoing{
+    color: #427900;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+/* section .CF5{
+    background-color: wheat;
+} */
+section .CF5 {
+    padding-bottom: 80px;
+}
+.CF5 .row .block1{
+    
+    padding: 30px;
+    text-align: center;
+    box-shadow: 0.2px 0.2px 5px 0.5px black;
+    margin-top: 40px;
+   
+}
+.CF5 .row .block1 img{
+   
+    height: 55px;
+    width: 55px;
+}
+.CF5 .row .block1 h4{
+    padding-top: 20px;
+    color: royalblue;
+}
+.CF5 .row .block2{
+    padding: 30px;
+    text-align: center;
+    box-shadow: 0.2px 0.2px 5px 0.5px black;
+    margin-top: 40px;
+    
+
+}
+.CF5 .row .block2 img{
+   
+    height: 55px;
+    width: 55px;
+}
+.CF5 .row .block2 h4{
+    padding-top: 20px;
+    color: royalblue;
+}
+.CF5 .row .block3{
+    padding: 30px;
+    text-align: center;
+    box-shadow: 0.2px 0.2px 5px 0.5px black;
+    margin-top: 40px;
+
+}
+.CF5 .row .block3 img{
+   
+    height: 55px;
+    width: 55px;
+}
+.CF5 .row .block3 h4{
+    padding-top: 20px;
+    color: royalblue;
+}
+
+section .mission1{
+    padding-top: 60px;
+    color: royalblue;
+}
+section .CF6 .mission2 {
+    border: 1px solid white;
+    margin:25px 10px 10px 10px;
+    padding:20px 20px 20px 8px;
+    
+}
+section .CF6 .mission3 {
+    border: 1px solid white;
+    margin:25px 10px 10px 10px;
+    padding:20px 20px 20px 8px;
+    
+}
+
+section .CF6 .mission2 img,h5{
+    display: inline-block;
+    color: royalblue;
+}
+section .CF6 .mission3 img,h5{
+    display: inline-block;
+    color: royalblue;
+}
+section .CF6 .mission2 h5{
+    padding-left: 30px;
+}
+section .CF6 .mission3 h5{
+    padding-left: 30px;
+}
+ section .CF6 .mission4heading{
+  margin-bottom: 20px;
+} 
+section .CF6 .mission4heading h4{
+    color: royalblue;
+}
+
+section .CF6 .mission4 {
+    border: 1px solid white;
+    height: 200px;
+    overflow: scroll;
+    margin-top: 30px;
+    
+} 
+section .CF6 .upcoming{
+    float: right;
+    margin-top: -100px;
+}
+section .CF6 .imagegallery{
+    text-align: center;
+    margin-top: 80px;
+
+}
+section .CF6 .imagegallery .Image{
+    color:royalblue ;
+
+}
+section .CF6 .imagegallery .gallery{
+    color:green ;
+  
+}
+section .CF6 .imagegalleryimg{
+    text-align: center;
+    color: green;
+
+}
+section .CF6 .imagegalleryimages img{
+    height: 140px;
+    min-width: 215px;
+    max-width: 400px;
+    padding-left: 1px;
+    margin: 20px 0px 20px 0px ;
+ 
+    
+}
+.CF7 .usefullinkheading{
+    padding-top: 20px;
+}
+section .CF6 .imagegalleryimages{
+    text-align: center;
+}
+ .imagewithnumber img,p{
+    display: inline;
+    
+}
+.CF7 .addresscontact{
+    padding-top: 20px;
+}
+.imagewithnumber img{
+    height: 18px;
+    width: 18px;
+    margin-right: 5px;
+}
+.CF7 .connectimage ul li{
+    list-style: none;
+    display: inline-block;
+}
+.CF7 .connectimage{
+    padding-top: 20px;
+}
+section .foot {
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+    padding: 40px 5px;
+}
+section .CF8{
+    border: 1px solid royalblue;
+    background-color: royalblue;
+    padding: 10px 10px;
+}
+.slide marquee{
+    border: 1px solid royalblue;
+    background-color: royalblue;
+    color: white;
+    margin-bottom: 40px;
+    margin-top: -20px;
+}
+.slide marquee .green{
+    color: rgb(24, 230, 24);
+}
+.slide marquee .blue{
+    color: blue;
+}
+.scrollbutton img{
+    position: fixed;
+    bottom: 20px;
+    right: 15px;
+    width: 20px;
+    height: 20px;
+}
+section .lineimage {
+    color: green;
+    padding-left:85px ;
+}
+
+
+
+
+
